@@ -2,7 +2,7 @@
 
 - Código de aplicativo Galeria de Fotos que oferece a capacidade de tirar fotos com a câmera do seu dispositivo, exibi-las em uma grade e armazená-las permanentemente no dispositivo.
 
-☑️ Aplicação desenvolvida com o objetivo de se aprofundar nas atualizações do IONIC 7, procurando entender sobre cada conceito e seguindo as melhores práticas para desenvolvimento web mobile.
+☑️ Aplicação desenvolvida com o objetivo de se aprofundar nas atualizações do IONIC 7, procurando entender sobre cada conceito e seguindo as melhores práticas para desenvolvimento mobile.
 
 ### Como rodar:
 0) Instale o Ionic se necessário: __npm install -g @ionic/cli__.
